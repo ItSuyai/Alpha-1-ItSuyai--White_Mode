@@ -1,4 +1,4 @@
-# SuyaiCode-Protype-3-ItSuyai
+#Alpha-1-ItSuyai--White_Mode
 
 EN Changes:
 -Changed color palette
